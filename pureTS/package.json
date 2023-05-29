@@ -1,0 +1,11 @@
+{
+  "name": "clove",
+  "version": "1.0.0",
+  "description": "learning purpose",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Big10",
+  "license": "ISC"
+}
